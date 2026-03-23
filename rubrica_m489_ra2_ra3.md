@@ -122,4 +122,4 @@ La puntuació mínima per superar l'avaluació és **Avançat (2)** en els crite
 
 ---
 
-*Rúbrica generada a partir de la conversa de disseny del M489 – Programació de Dispositius Mòbils i Multimèdia (2n DAM Videojocs)*
+*Rúbrica generada automàticamenta partir de la conversa de disseny del M489 – Programació de Dispositius Mòbils i Multimèdia (2n DAM Videojocs)*
